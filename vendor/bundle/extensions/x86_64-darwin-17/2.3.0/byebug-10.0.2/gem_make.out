@@ -1,0 +1,19 @@
+current directory: /Users/kamaldunisaman/todo_list_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/kamaldunisaman/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20180927-94102-e8xqoi.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kamaldunisaman/todo_list_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kamaldunisaman/todo_list_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling byebug.c
+compiling context.c
+compiling breakpoint.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kamaldunisaman/todo_list_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20180927-94102-1kj1g8j/byebug
