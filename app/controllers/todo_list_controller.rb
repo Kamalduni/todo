@@ -14,7 +14,7 @@ class TodoListController < ApplicationController
 	end
 
 	def view
-		@post = todo_lists.all
+		@post = todo_list.all
 
 	end
 end
